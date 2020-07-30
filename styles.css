@@ -1,0 +1,68 @@
+/* Title Section */
+.title{
+  font-family: 'Pacifico', cursive;
+  color: #fff;
+  text-align: center;
+  padding: 2rem 0;
+  font-size: 5rem;
+  margin-bottom: 0;
+}
+
+p{
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+/* Result Section */
+
+.result-title{
+  font-family: 'Rowdies', cursive;
+  text-align: center;
+  color: #9d2503;
+}
+
+.result{
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  color: #297ca0;
+}
+
+/* Player Name Section */
+.player-name{
+  font-family: 'Patua One', cursive;
+  line-height: 2;
+  color: #d15a7c;
+  padding-bottom: 2rem;
+}
+
+/* Dice Row */
+.row{
+  padding: 1% 20% 3%;
+  text-align: center;
+  width: 100%;
+}
+
+/* Dice Images */
+.dice{
+  width: 40%;
+}
+
+
+
+/* Footer Section */
+#footer{
+  background-color: #cc0066;
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+  line-height: 3;
+}
+
+.follow-us{
+  padding: 0 0.6rem;
+  font-size: 1.5rem;
+}
+
+.follow-us:hover{
+  color: black;
+}
